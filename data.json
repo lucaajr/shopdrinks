@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Corona 710",
+        "precio": 550,
+        "img":  
+            "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/211/660/products/corona-7101-9a2faa7ea9b4adc38d16196380770669-640-0.webp",
+        "cantidad": 1
+    },
+
+    {
+        "id": 2,
+        "nombre": "Fernet Branca",
+        "precio": 1600,
+        "img": 
+            "https://d3ugyf2ht6aenh.cloudfront.net/stores/812/913/products/fernet-branca-10001-08a564b55b8e040b3315657857957830-1024-1024.jpg",
+        "cantidad": 1
+        },
+
+    {
+        "id": 3,
+        "nombre": "Smirnoff",
+        "precio": 1400,
+        "img": 
+            "http://d2r9epyceweg5n.cloudfront.net/stores/001/107/356/products/vodka-smirnoff-botella-de-750-ml-1-21-73ad137d7122c3a00816260585951637-640-0.png" ,
+        "cantidad": 1
+        },
+
+    {
+        "id": 4,
+        "nombre": "Absolut",
+        "precio": 3800,
+        "img": 
+            "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/571/448/products/absolut-clasico-vodka1-e9520d90c751438b4c16208546647606-1024-1024.jpg" , 
+        "cantidad": 1
+    }
+
+]
