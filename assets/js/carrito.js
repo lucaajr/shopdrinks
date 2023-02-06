@@ -95,9 +95,3 @@
     };
 
     carritoCounter ();
-
-
-
-
-// AGREGAR BOTON DE ALERTA CADA VEZ QUE AGREGO UN CARRITO "se añadió un producto al carrito" //
-// y agregarle una libreria (para el cartel de alerta) // 
